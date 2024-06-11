@@ -1,0 +1,72 @@
+{
+  "tours": [
+    {
+      "id": "df9e814d-8584-45a5-b721-d91eb6740cd3"
+    },
+    {
+      "id": "d184fbea-726e-44ab-af6f-cbe1de22dddb",
+      "name": "Tour al Quilotoa",
+      "precio": 15,
+      "foto": "quilotoa.png"
+    },
+    {
+      "id": "f1b0"
+    },
+    {
+      "id": "0ddca84d-5ec3-43d0-8879-db033d8e63bc",
+      "nombre": "tour",
+      "description": "de nopche",
+      "image": "https://res.cloudinary.com/dffkeswad/image/upload/v1717706265/tours/dq8eh8mifzxvib8k6uem.jpg",
+      "public_id": "tours/dq8eh8mifzxvib8k6uem"
+    },
+    {
+      "id": "9929e3ac-a769-446c-a4d0-4ccec3fa807f",
+      "nombre": "tour",
+      "description": "de nopche",
+      "image": "https://res.cloudinary.com/dffkeswad/image/upload/v1718054385/tours/tgylqegc1hjhisa6te1z.jpg",
+      "public_id": "tours/tgylqegc1hjhisa6te1z"
+    },
+    {
+      "id": "29d55c4e-bad7-4730-b890-c37dc76524c7",
+      "nombre": "tour",
+      "description": "de nopche",
+      "image": "https://res.cloudinary.com/dffkeswad/image/upload/v1718054413/tours/ucsa8jywtxwipvv14r1c.jpg",
+      "public_id": "tours/ucsa8jywtxwipvv14r1c"
+    },
+    {
+      "id": "7407"
+    },
+    {
+      "id": "7b64ce21-06db-4873-8765-d96af96cec79",
+      "nombre": "tour",
+      "description": "de nopche",
+      "image": "https://res.cloudinary.com/dffkeswad/image/upload/v1718055358/tours/e2kycperh5otultvhybm.jpg",
+      "public_id": "tours/e2kycperh5otultvhybm"
+    },
+    {
+      "id": "f118"
+    }
+  ],
+  "users": [
+    {
+      "id": "9a67ba94-0e06-4333-b2ce-8bc6624abc66",
+      "password": "$2b$10$2fxneQdjp/pdxsCCDFLw7uW2EEGAixQj0Mg81rQ3hJ9mw42qQSvaC",
+      "username": "pepe"
+    },
+    {
+      "id": "0ce4a4c1-239f-4c5e-b6e2-a1236d9a28f4",
+      "password": "$2b$10$8q0gG.scm0JYXwAMGu3HE.lh/3N35MsGS1Se6XB2g9PmkculDhBoi",
+      "username": "yo"
+    },
+    {
+      "id": "701ae0ba-96df-41da-96a9-ccf2fd7df0a8",
+      "password": "$2b$10$jID.azdd6AaEe8B1dTib8OURxCIDCuNzrFS0qYDQDcca88.OVyXoS",
+      "username": "David"
+    },
+    {
+      "id": "9665361f-68a0-45c6-ad45-19eacc71fc08",
+      "password": "$2b$10$RPZKLapLhtOlMprKdKT7J.DsfMaTiuhSJuPisEwE6e1Ue4mg2h7FW",
+      "name": "v"
+    }
+  ]
+}
